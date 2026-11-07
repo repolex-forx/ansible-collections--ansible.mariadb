@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ansible-collections/ansible.mariadb/commit/c6ac673bba8c91bb1281feb7efd4a5df59369078",
       "git:hexsha": "c6ac673bba8c91bb1281feb7efd4a5df59369078",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ansible-collections/ansible.mariadb/commit/611e3dd7644ab4e55b83e5c4c175a6101afe9c84",
